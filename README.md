@@ -67,4 +67,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Contact
 
-If you have any questions, suggestions, or issues, please feel free to contact me at [your email address].
+If you have any questions, suggestions, or issues, please feel free to contact me at [nqkdeveloper@gmail.com].
