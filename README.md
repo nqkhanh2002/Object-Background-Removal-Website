@@ -10,8 +10,7 @@
 </div>
 
 <div align="center">
-  <h1>Background-Removal-Website</h1>
-  <h3>Object & Remove Website by Object Segmentation</h3>
+  <h3>Object Removal Website by Object Segmentation</h3>
 
 </div>
 
