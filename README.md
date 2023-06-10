@@ -1,3 +1,14 @@
+<a name="readme-top"></a>
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/nqkhanh2002/Object-Background-Removal-Website">View Demo</a>
+    ·
+    <a href=https://github.com/nqkhanh2002/Object-Background-Removal-Website/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/nqkhanh2002/Object-Background-Removal-Website/pulls">Request Feature</a>
+  </p>
+</div>
+
 <div align="center">
   <h1>Background-Removal-Website</h1>
   <h3>Object & Remove Website by Object Segmentation</h3>
