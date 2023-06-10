@@ -11,9 +11,8 @@
 
 <div align="center">
   <h3>Object Removal Website by Object Segmentation</h3>
-  ![intro](intro.png)
+  <img src="intro.png" alt="Introduction">
 </div>
-
 
 
 
