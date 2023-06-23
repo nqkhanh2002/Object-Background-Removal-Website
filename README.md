@@ -113,7 +113,7 @@ You can convert the YOLOv8-seg model to ONNX using the following Google Colab no
 
 <h1 id="Demo">➤ Demo</h1>
 
-* [***Demo Youtube Video***](https://www.youtube.com/watch?v=_AV-B7XFRZU&feature=youtu.be)
+* [***Demo Youtube Video***]()
 
 * ***Display Mode Switch***
 
@@ -131,16 +131,3 @@ You can convert the YOLOv8-seg model to ONNX using the following Google Colab no
         <img src="./demo/demo-Removal.png" width=600px>
     </p>
 
-<h1 id="Updates">➤ Updates</h1>
-
-* 2023/05/05 - Added images with downloadable transparent backgrounds.
-
-
-<h1 id="License">➤ License</h1>
-WiFi Analyzer is licensed under the GNU General Public License v3.0 (GPLv3).
-
-**GPLv3 License key requirements** :
-* Disclose Source
-* License and Copyright Notice
-* Same License
-* State Changes
